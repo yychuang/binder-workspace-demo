@@ -1,6 +1,7 @@
 # Example of launching binder with a custom JupyterLab layout
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ian-r-rose/binder-workspace-demo/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/binder-workspace-demo/HEAD)
+
 
 We would like to be able to launch JupyterLab from a binder deployment with a specific layout.
 For instance, the repository authors may want to open a particular file or notebook,
