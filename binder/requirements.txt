@@ -2,4 +2,4 @@
 
 # for openchemistry
 jupyterlab==1.1.4
-openchemistry==0.0.19
+#openchemistry==0.0.19
