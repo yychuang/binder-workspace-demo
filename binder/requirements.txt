@@ -1,1 +1,5 @@
-jupyterlab>=1.0
+#jupyterlab>=1.0
+
+# for openchemistry
+jupyterlab==1.1.4
+openchemistry==0.0.19
